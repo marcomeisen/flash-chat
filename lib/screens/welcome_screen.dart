@@ -1,4 +1,4 @@
-import 'package:flash_chat/round_button.dart';
+import 'package:flash_chat/rounded_button.dart';
 import 'package:flutter/material.dart';
 
 import 'login_screen.dart';
